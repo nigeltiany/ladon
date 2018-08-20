@@ -22,7 +22,7 @@ Ladon officially ships with storage adapters for SQL (officially supported: MySQ
 
 ORY builds solutions for better internet security and accessibility. We have a couple more projects you might enjoy:
 
-* **[Hydra](https://github.com/ory/hydra)**, a security-first open source OAuth2 and OpenID Connect server for new and existing infrastructures that uses Ladon for access control.
+* **[Hydra](https://github.com/ory/hydra)**, a security-first open source OAuth2 and OpenID Connect server for new and existing infrastructures.
 * **[ORY Editor](https://github.com/ory/editor)**, an extensible, modern WYSI editor for the web written in React.
 * **[Fosite](https://github.com/ory/fosite)**, an extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 * **[Dockertest](https://github.com/ory/dockertest)**: Write better integration tests with dockertest!
